@@ -7,7 +7,7 @@ Welcome to Frontend collection! This repository is a collection of small fronten
 1. **Project 1: Banner**
    - Description: A simple banner for profile that catches the user's attention.
    - Output:
-            
+           https://github.com/manisankar29/Frontend_collection/assets/138246745/aadee99b-5128-4968-b8e6-cb3248fece7e
 
 ## Getting Started
 
