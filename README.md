@@ -12,7 +12,10 @@ Welcome to Frontend collection! This repository is a collection of small fronten
    - Description: A web-based OTP(One Time Password) verification system.
    - Output:
      <img width="890" alt="Output2" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/836f81ad-f0e4-4bbe-9817-e584d32bd21c">
-
+3. **Project 3: Glowing Text Animation**
+   - Description: A visual effect applied to text elements, creating the illusion that they emit a gentle and radiant light.
+   - Output:
+   - 
 ## Getting Started
 
 1. Clone the repository to your local machine:
