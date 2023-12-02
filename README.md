@@ -7,6 +7,7 @@ Welcome to Frontend collection! This repository is a collection of small fronten
 1. **Project 1: Banner**
    - Description: A simple banner for profile that catches the user's attention.
    - Output:
+     <img width="960" alt="output1" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/acea9910-a775-45c2-8067-097a76ca79cb">
 2. **Project 2: OTP Verification**
    - Description: A web-based OTP(One Time Password) verification system.
    - Output:
