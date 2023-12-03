@@ -17,6 +17,7 @@ Welcome to Frontend collection! This repository is a collection of small fronten
    - Output:
      <img width="890" alt="output3" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/1953e6e2-394c-4f8f-a190-750f1716e6d9">
 4.**Project 4: QR Code Generator**
+
 ## Getting Started
 
 1. Clone the repository to your local machine:
