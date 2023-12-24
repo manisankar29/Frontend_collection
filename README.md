@@ -1,6 +1,6 @@
 # Frontend_collection
 
-Welcome to Frontend collection! This repository is a collection of small frontend projects built with HTML, CSS, and JavaScript. Each project is designed to help my pratice and improve my frontend development skills.
+Welcome to Frontend collection! This repository is a collection of small frontend projects built with HTML, CSS, and JavaScript. Each project is designed to help my practice and improve my frontend development skills.
 
 ## Projects
 
