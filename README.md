@@ -6,22 +6,27 @@ Welcome to Frontend collection! This repository is a collection of small fronten
 
 1. **Project 1: Banner**
    - Description: A simple banner for profile that catches the user's attention.
+   - Website: 
    - Output:
      <img width="960" alt="output1" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/acea9910-a775-45c2-8067-097a76ca79cb">
 2. **Project 2: OTP Verification**
    - Description: A web-based OTP(One Time Password) verification system.
+   - Website: 
    - Output:
      <img width="890" alt="output2" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/836f81ad-f0e4-4bbe-9817-e584d32bd21c">
 3. **Project 3: Glowing Text Animation**
    - Description: A visual effect applied to text elements, creating the illusion that they emit a gentle and radiant light.
+   - Website:
    - Output:
      <img width="890" alt="output3" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/1953e6e2-394c-4f8f-a190-750f1716e6d9">
 4. **Project 4: QR Code Generator**
    - Description: A web-based QR Code Generator using URL(Uniform Resource Locator).
+   - Website:
    - Output:
      <img width="960" alt="output4" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/22f15a48-50e2-4bbd-8ed8-8b2dba1ef4b9">
 5. **Project 5: Age Calculator**
    - Description: An interactive web-based age calculator computes age in terms of years, months and days.
+   - Website:
    - Output:
       <img width="948" alt="output5" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/1dac9f0b-9c40-458c-864b-585fbdf02072">
 
