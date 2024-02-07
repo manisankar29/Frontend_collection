@@ -11,7 +11,7 @@ Welcome to Frontend collection! This repository is a collection of small fronten
      <img width="960" alt="output1" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/acea9910-a775-45c2-8067-097a76ca79cb">
 2. **Project 2: OTP Verification**
    - Description: A web-based OTP(One Time Password) verification system.
-   - Website: 
+   - Website: https://manisankar29.github.io/Frontend_collection/OTP%20Verification/
    - Output:
      <img width="890" alt="output2" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/836f81ad-f0e4-4bbe-9817-e584d32bd21c">
 3. **Project 3: Glowing Text Animation**
