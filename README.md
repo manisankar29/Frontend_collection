@@ -26,7 +26,7 @@ Welcome to Frontend collection! This repository is a collection of small fronten
      <img width="960" alt="output4" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/22f15a48-50e2-4bbd-8ed8-8b2dba1ef4b9">
 5. **Project 5: Age Calculator**
    - Description: An interactive web-based age calculator computes age in terms of years, months and days.
-   - Website:
+   - Website: https://manisankar29.github.io/Frontend_collection/Age%20Calculator/
    - Output:
       <img width="948" alt="output5" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/1dac9f0b-9c40-458c-864b-585fbdf02072">
 
