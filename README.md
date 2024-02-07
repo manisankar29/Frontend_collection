@@ -16,7 +16,7 @@ Welcome to Frontend collection! This repository is a collection of small fronten
      <img width="890" alt="output2" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/836f81ad-f0e4-4bbe-9817-e584d32bd21c">
 3. **Project 3: Glowing Text Animation**
    - Description: A visual effect applied to text elements, creating the illusion that they emit a gentle and radiant light.
-   - Website:
+   - Website: https://manisankar29.github.io/Frontend_collection/Glowing%20Text%20Animation/
    - Output:
      <img width="890" alt="output3" src="https://github.com/manisankar29/Frontend_collection/assets/138246745/1953e6e2-394c-4f8f-a190-750f1716e6d9">
 4. **Project 4: QR Code Generator**
